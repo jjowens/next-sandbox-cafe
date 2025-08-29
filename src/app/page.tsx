@@ -52,7 +52,7 @@ export default function Home() {
         </div>
         <Image
           className="dark:invert"
-          src="/Dice.png"
+          src="/dice.png"
           alt="A pair of dice"
           width={180}
           height={38}
